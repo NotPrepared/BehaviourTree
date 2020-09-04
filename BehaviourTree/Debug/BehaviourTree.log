@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BTTask.cpp
+  BTTaskActionAnimation.cpp
+c:\users\lukas\documents\visual studio 2017\projects\behaviourtree\behaviourtree\bttaskactionanimation.cpp(29): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  BTTaskCondition.cpp
+  BTTaskDecoratorUntilFail.cpp
+  BTTaskSelector.cpp
+  BTTaskSequence.cpp
+  BehaviourTree.cpp
+  GameObject.cpp
+  Code wird generiert...
+  BehaviourTree.vcxproj -> C:\Users\Lukas\Documents\Visual Studio 2017\Projects\BehaviourTree\Debug\BehaviourTree.exe
